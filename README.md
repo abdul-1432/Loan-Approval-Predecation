@@ -53,15 +53,17 @@ To use this project:
    pip install -r requirements.txt
    ```
 
-3. Run the prediction script with your own data:
+3. Run the prediction script with your data:
    ```
    python predict.py --data path/to/your/data.csv
    ```
 
 ## Contributors
 
-- John Doe (@johndoe)
-- Jane Smith (@janesmith)
+- Abdul Gafoor 
+- M. Ajay Kumar
+- R Gayathi
+- Neha
 
 ## License
 
