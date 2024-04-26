@@ -45,7 +45,7 @@ To use this project:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/loan-approval-prediction.git
+   git clone https://github.com/abdul-1432/Loan-Approval-Predecation/blob/main/README.md
    ```
 
 2. Install the required dependencies:
